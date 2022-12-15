@@ -1,0 +1,11 @@
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\bin\Debug\Calculadora Windows.exe.config
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\bin\Debug\Calculadora Windows.exe
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\bin\Debug\Calculadora Windows.pdb
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.csproj.AssemblyReference.cache
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\obj\Debug\Calculadora_Windows.Calculadora_windows.resources
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\obj\Debug\Calculadora_Windows.Properties.Resources.resources
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.csproj.GenerateResource.cache
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.csproj.CoreCompileInputs.cache
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.exe
+C:\Users\maxwell.lsantos\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.pdb

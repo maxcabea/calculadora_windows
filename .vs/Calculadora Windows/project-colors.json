@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea146f83-d353-4bba-b703-392b00ab22e1": {
+      "ProjectGuid": "ea146f83-d353-4bba-b703-392b00ab22e1",
+      "DisplayName": "Calculadora Windows",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
